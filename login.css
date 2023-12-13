@@ -1,0 +1,46 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    margin-top: 10%;
+    width:30%;
+    border-radius: 90px;
+}
+input{
+    width: 90%;
+    height: 60px;
+    margin-top: 10%;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 600;
+    font-size:20px;
+}
+#radio{
+    width: 05%;
+    margin-right: 150px;
+}
+h2{
+  font-size: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: -40px;
+ 
+}
+button{
+    width: 60%;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(47, 158, 255);
+    color: rgb(255, 255, 255);
+    margin-top: 10%;
+}
+
+
+
